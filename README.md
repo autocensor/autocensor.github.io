@@ -1,1 +1,1 @@
-# autocensor.github.io
+[# autocensor.github.io](https://autocensor.github.io)
